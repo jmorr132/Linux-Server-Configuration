@@ -1,6 +1,6 @@
 # Linux-Server-Configuration
 Linux Configuration project for Udacity's Full Stack Developer Nano Degree
-
+IP Address: 35.164.247.204
 Installed Software
   1. Apache2
 
