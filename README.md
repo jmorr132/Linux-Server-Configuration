@@ -3,7 +3,9 @@ Linux Configuration project for Udacity's Full Stack Developer Nano Degree
 
 
 IP Address: 35.164.247.204
+
 SSH Port: 2200
+
 Installed Software
   1. Apache2
 
