@@ -47,21 +47,37 @@ Configurations:
         
     3.Install and configure Apache2
         Serve Python Flask web application as a wsgi app from root path
+        
     4.Disabled remote root access
     
- Reasources Used:
-    onfiguring Linux Web Servers - Udacity.com
+Reasources Used:
+
+    Configuring Linux Web Servers - Udacity.com
+
     Get rid of sudo error message - askubuntu
+
     Create new ssh user - askubuntu
+
     More info on UFW - Ubuntu docs
+
     Change timezone - Ubuntu docs
+
     Flask App on Ubuntu VPS - DigitalOcean
+
     python packages not installing in virtualenv using pip - stackoverflow
+
     Move files from one directtory to another - stack exchange
+
     Make .git directory web inaccessible
+
     Fix google + Oauth issue - Udacity Forum
+
     Using glances - Glances docs
+
     Use fail2ban to monitor login - digital ocean
+
     Python 2 in virtual enviroment
+
     unattended upgardes - ubuntu docs
-    Using postgres in flask
+
+    Using postgres in flask  
